@@ -1,0 +1,7 @@
+require("extensions\\roomlist")
+require("extensions\\warp")
+require("commands\\hearts")
+require("commands\\rupee")
+require("commands\\godmode")
+require("commands\\haveitems")
+require("commands\\minish")
